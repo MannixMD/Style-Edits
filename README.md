@@ -6,7 +6,7 @@ This is a small extension to edit my PHPBB styles non-destructively
 1. Unzip locally and copy the MannixMD folder to your ext folder via FTP 
 2. Go to ACP 
    - Go to Customisation Tab 
-   - Find **Style Edits** on the extensions list
+   - Find **MannixMD's Style Edits** on the extensions list
    - Click **Enable**
 
 ## How to use the extension
@@ -21,7 +21,7 @@ This is a small extension to edit my PHPBB styles non-destructively
 
 1. Go to ACP 
    - Go to Customisation Tab 
-   - Find **Style Edits** on the extensions list
+   - Find **MannixMD's Style Edits** on the extensions list
    - Click **Disable**
    - Click **Delete Data** on the extension list
 2. Go to **ext** folder via FTP
