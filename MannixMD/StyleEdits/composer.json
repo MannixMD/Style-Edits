@@ -3,7 +3,7 @@
     "type": "phpbb-extension",
     "description": "Extension to edit my styles non-destructively",
     "homepage": "",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "time": "2018-11-04",
     "license": "GPL-2.0-only",
     "authors": [
